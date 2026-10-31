@@ -41,6 +41,14 @@ Estudante de Ciência da Computação na UFC. Construo produtos de software com 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" alt="Azure"/>
 
+### GitHub Stats
+
+<p>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HowLuks&theme=github_dark" alt="GitHub stats"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HowLuks&theme=github_dark" alt="Linguagens mais usadas"/>
+</p>
+<img src="https://streak-stats.demolab.com?user=HowLuks&theme=github-dark-blue" alt="GitHub streak"/>
+
 ### Estudando agora
 
 Fine-tuning de modelos pequenos e avaliação de agentes.
